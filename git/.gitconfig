@@ -1,0 +1,25 @@
+[diff]
+	tool = bc3
+[difftool "bc3"]
+	cmd = \"D:/develop/soft/BeyondCompare3/bcomp.exe\" \"$LOCAL\" \"$REMOTE\"
+[difftool]
+	prompt = false
+[merge]
+	tool = bc3
+[mergetool "bc3"]
+	cmd = \"D:/develop/soft/BeyondCompare3/bcomp.exe\" \"$LOCAL\" \"$REMOTE\" \"$BASE\" \"$MERGED\"
+	trustExitCode = true	
+
+[user]
+	name = maczam
+	email = maczam@163.com
+
+[alias]
+    lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+    st = status
+    co = commit
+    br = branch
+    ch = checkout
+    df = diff
+    pom = push origin master
+
