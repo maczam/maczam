@@ -17,135 +17,192 @@
 #       38.25.63.10     x.acme.com              # x client host
 
 127.0.0.1       localhost
+
 #迅雷看看播放器
-0.0.0.0 mcfg.sandai.net
-0.0.0.0 server1.adpolestar.net
-0.0.0.0 mpv.sandai.net
-0.0.0.0 mtips.xunlei.com
-0.0.0.0 biz5.sandai.net
-0.0.0.0 kkpgv.xunlei.com
-0.0.0.0 statis.kankan.xunlei.com
-0.0.0.0 float.sandai.net
-0.0.0.0 recommend.xunlei.com
-0.0.0.0 cl.kankan.xunlei.com
-0.0.0.0 advstat.xunlei.com
-0.0.0.0 pubstat.sandai.net
-#CNTV
-0.0.0.0 a.cctv.com
-0.0.0.0 a.cntv.cn
-0.0.0.0 ad.cctv.com
-0.0.0.0 d.cntv.cn
-0.0.0.0 adguanggao.eee114.com
-0.0.0.0 cctv.adsunion.com
+127.0.0.1 mcfg.sandai.net
+127.0.0.1 server1.adpolestar.net
+127.0.0.1 mpv.sandai.net
+127.0.0.1 mtips.xunlei.com
+127.0.0.1 biz5.sandai.net
+127.0.0.1 kkpgv.xunlei.com
+127.0.0.1 statis.kankan.xunlei.com
+127.0.0.1 float.sandai.net
+127.0.0.1 recommend.xunlei.com
+127.0.0.1 cl.kankan.xunlei.com
+127.0.0.1 advstat.xunlei.com
+127.0.0.1 pubstat.sandai.net
+
+#CNTV cctv.com
+127.0.0.1 a.cctv.com
+127.0.0.1 a.cntv.cn
+127.0.0.1 ad.cctv.com
+127.0.0.1 d.cntv.cn
+127.0.0.1 adguanggao.eee114.com
+127.0.0.1 cctv.adsunion.com
+
 #我乐网
-0.0.0.0 acs.56.com
-0.0.0.0 acs.agent.56.com
-0.0.0.0 acs.agent.v-56.com
-0.0.0.0 bill.agent.56.com
-0.0.0.0 bill.agent.v-56.com
-0.0.0.0 stat.56.com
-0.0.0.0 stat2.corp.56.com
-0.0.0.0 union.56.com
-0.0.0.0 uvimage.56.com
-0.0.0.0 v16.56.com
+127.0.0.1 acs.56.com
+127.0.0.1 acs.agent.56.com
+127.0.0.1 acs.agent.v-56.com
+127.0.0.1 bill.agent.56.com
+127.0.0.1 bill.agent.v-56.com
+127.0.0.1 stat.56.com
+127.0.0.1 stat2.corp.56.com
+127.0.0.1 union.56.com
+127.0.0.1 uvimage.56.com
+127.0.0.1 v16.56.com
+
 #6间房
-0.0.0.0 pole.6rooms.com
-0.0.0.0 shrek.6.cn
-0.0.0.0 simba.6.cn
-0.0.0.0 union.6.cn
+127.0.0.1 pole.6rooms.com
+127.0.0.1 shrek.6.cn
+127.0.0.1 simba.6.cn
+127.0.0.1 union.6.cn
+
 #优酷网
-0.0.0.0 atm.youku.com
-0.0.0.0 Fvid.atm.youku.com
-0.0.0.0 html.atm.youku.com
-0.0.0.0 lstat.youku.com
-0.0.0.0 speed.lstat.youku.com
-0.0.0.0 stat.youku.com
-0.0.0.0 static.lstat.youku.com
-0.0.0.0 urchin.lstat.youku.com
-0.0.0.0 valb.atm.youku.com
-0.0.0.0 valc.atm.youku.com
-0.0.0.0 valf.atm.youku.com
-0.0.0.0 valo.atm.youku.com
-0.0.0.0 valp.atm.youku.com
-0.0.0.0 vid.atm.youku.com
-0.0.0.0 walp.atm.youku.com
-#土豆网
-0.0.0.0 adextensioncontrol.tudou.com
-0.0.0.0 adplay.tudou.com
-0.0.0.0 iwstat.tudou.com
-0.0.0.0 nstat.tudou.com
-0.0.0.0 stat.tudou.com
-0.0.0.0 stats.tudou.com
-0.0.0.0 tdap.tudou.com
-0.0.0.0 tdcm.tudou.com
+127.0.0.1 vhtml.atm.youku.com
+127.0.0.1 f.youku.com
+127.0.0.1 yk.pp.navi.youku.com
+127.0.0.1 res.mfs.ykimg.com
+127.0.0.1 atm.youku.com
+127.0.0.1 stat.youku.com
+127.0.0.1 vid.atm.youku.com
+127.0.0.1 fvid.atm.youku.com
+127.0.0.1 html.atm.youku.com
+127.0.0.1 valb.atm.youku.com
+127.0.0.1 valc.atm.youku.com
+127.0.0.1 valf.atm.youku.com
+127.0.0.1 valo.atm.youku.com
+127.0.0.1 valp.atm.youku.com
+127.0.0.1 walp.atm.youku.com
+127.0.0.1 lstat.youku.com
+127.0.0.1 speed.lstat.youku.com
+127.0.0.1 static.lstat.youku.com
+127.0.0.1 urchin.lstat.youku.com
+127.0.0.1 static.atm.youku.com
+127.0.0.1 e.stat.ykimg.com
+127.0.0.1 secure-cn.imrworldwide.com
+127.0.0.1 v.admaster.com.cn
+
+#土豆网www.tudou.com
+127.0.0.1 tdap.tudou.com
+127.0.0.1 adextensioncontrol.tudou.com
+127.0.0.1 adplay.tudou.com
+127.0.0.1 tdcm.tudou.com
+127.0.0.1 td.atm.youku.com
+127.0.0.1 iwstat.tudou.com
+127.0.0.1 nstat.tudou.com
+127.0.0.1 stat.tudou.com
+127.0.0.1 stats.tudou.com
+127.0.0.1 img4.tdimg.com
+127.0.0.1 ua5.tdimg.com
+127.0.0.1 ua4.tdimg.com
+127.0.0.1 td.atm.youku.com
+127.0.0.1 114.80.180.15
+127.0.0.1 h.irs01.com
+127.0.0.1 istat.tudou.com
+127.0.0.1 58.215.144.8
+127.0.0.1 t.stat.youku.com
+127.0.0.1 player.pb.ops.tudou.com
+127.0.0.1 ad.cn.doubleclick.net
+
 #酷6网
-0.0.0.0 1.allyes.com.cn
-0.0.0.0 ku6.allyes.com
-0.0.0.0 analytics.ku6.com
-0.0.0.0 gug.ku6cdn.com
-0.0.0.0 pq.stat.ku6.com
-0.0.0.0 st.vq.ku6.cn
-0.0.0.0 stat0.888.ku6.com
-0.0.0.0 stat1.888.ku6.com
-0.0.0.0 stat2.888.ku6.com
-0.0.0.0 stat3.888.ku6.com
-0.0.0.0 static.ku6.com
-0.0.0.0 v0.stat.ku6.com
-0.0.0.0 v1.stat.ku6.com
-0.0.0.0 v2.stat.ku6.com
-0.0.0.0 v3.stat.ku6.com
-0.0.0.0 main.gslb.ku6.com
+127.0.0.1 1.allyes.com.cn
+127.0.0.1 ku6.allyes.com
+127.0.0.1 analytics.ku6.com
+127.0.0.1 gug.ku6cdn.com
+127.0.0.1 pq.stat.ku6.com
+127.0.0.1 st.vq.ku6.cn
+127.0.0.1 stat0.888.ku6.com
+127.0.0.1 stat1.888.ku6.com
+127.0.0.1 stat2.888.ku6.com
+127.0.0.1 stat3.888.ku6.com
+127.0.0.1 static.ku6.com
+127.0.0.1 v0.stat.ku6.com
+127.0.0.1 v1.stat.ku6.com
+127.0.0.1 v2.stat.ku6.com
+127.0.0.1 v3.stat.ku6.com
+127.0.0.1 main.gslb.ku6.com
+
 #激动网
-0.0.0.0 86file.megajoy.com
-0.0.0.0 86get.joy.cn
-0.0.0.0 86log.joy.cn
+127.0.0.1 86file.megajoy.com
+127.0.0.1 86get.joy.cn
+127.0.0.1 86log.joy.cn
+
 #天线视频
-0.0.0.0 casting.openv.com
-0.0.0.0 m.openv.tv
-0.0.0.0 uniclick.openv.com
+127.0.0.1 casting.openv.com
+127.0.0.1 m.openv.tv
+127.0.0.1 uniclick.openv.com
+
 #Wo318
-0.0.0.0 wo318.k621.com
+127.0.0.1 wo318.k621.com
+
 #爆米花
-0.0.0.0 union.pomoho.com
-#乐视网
-0.0.0.0 pro.letv.com
+127.0.0.1 union.pomoho.com
+
+#Letv乐视letv.com
+127.0.0.1 pro.letv.com
+127.0.0.1 dc.letv.com
+127.0.0.1 letv.allyes.com
+
 #巨鲸网
-0.0.0.0 t.top100.cn
-#搜狐高清
-0.0.0.0 images.sohu.com
+127.0.0.1 t.top100.cn
+
+#搜狐高清tv.sohu.com
+127.0.0.1 images.sohu.com
+127.0.0.1 atyt.tv.sohu.com
+127.0.0.1 hot.vrs.sohu.com
+127.0.0.1 access.tv.sohu.com
+127.0.0.1 p.aty.sohu.com
+127.0.0.1 xls.go.sohu.com
+
 #pptv
 127.0.0.1 pp2.pptv.com
+
 #新浪视频
-0.0.0.0 dcads.sina.com.cn
-#奇艺
-0.0.0.0 afp.qiyi.com
-0.0.0.0 focusbaiduafp.allyes.com
+127.0.0.1 dcads.sina.com.cn
+
+#奇艺IQIYI.com
+127.0.0.1 afp.qiyi.com
+127.0.0.1 focusbaiduafp.allyes.com
+127.0.0.1 123.125.118.74
+127.0.0.1 123.125.118.75
+127.0.0.1 123.125.118.66
+127.0.0.1 60.210.17.145
+127.0.0.1 60.210.17.158
+127.0.0.1 track.cupid.qiyi.com
+127.0.0.1 api.cupid.qiyi.com
+127.0.0.1 msg.video.qiyi.com
+127.0.0.1 show.cupid.qiyi.com
+127.0.0.1 policy.cupid.qiyi.com
+127.0.0.1 jsmsg.video.qiyi.com
+
 #迅雷看看网页
-0.0.0.0 advstat.xunlei.com
-0.0.0.0 areainfo.xunlei.com
-0.0.0.0 cl.kankan.xunlei.com
-0.0.0.0 client.stat.xunlei.com
-0.0.0.0 gouwu.vip.xunlei.com
-0.0.0.0 hezuo.down.xunlei.com
-0.0.0.0 iimg.xunlei.com
-0.0.0.0 kkpgv.xunlei.com
-0.0.0.0 kkpgv2.xunlei.com
-0.0.0.0 leiyanstatic.xunlei.com
-0.0.0.0 mediapv.xunlei.com
-0.0.0.0 mtips.xunlei.com
-0.0.0.0 p4pstatic.xunlei.com
-0.0.0.0 pv.kankan.stat.xunlei.com
-0.0.0.0 recommend.xunlei.com
-0.0.0.0 res.stat.xunlei.com
-0.0.0.0 stat.xunlei.com
-0.0.0.0 static.soft.xunlei.com
-0.0.0.0 thunderqtypv.union.xunlei.com
-0.0.0.0 tj.xunlei.com
-0.0.0.0 union.xunlei.com
-0.0.0.0 web.stat.xunlei.com
-0.0.0.0 websts.xunlei.com
-0.0.0.0 wy.xunlei.com
-0.0.0.0 xmlconf.client.xunlei.com
+127.0.0.1 advstat.xunlei.com
+127.0.0.1 areainfo.xunlei.com
+127.0.0.1 cl.kankan.xunlei.com
+127.0.0.1 client.stat.xunlei.com
+127.0.0.1 gouwu.vip.xunlei.com
+127.0.0.1 hezuo.down.xunlei.com
+127.0.0.1 iimg.xunlei.com
+127.0.0.1 kkpgv.xunlei.com
+127.0.0.1 kkpgv2.xunlei.com
+127.0.0.1 leiyanstatic.xunlei.com
+127.0.0.1 mediapv.xunlei.com
+127.0.0.1 mtips.xunlei.com
+127.0.0.1 p4pstatic.xunlei.com
+127.0.0.1 pv.kankan.stat.xunlei.com
+127.0.0.1 recommend.xunlei.com
+127.0.0.1 res.stat.xunlei.com
+127.0.0.1 stat.xunlei.com
+127.0.0.1 static.soft.xunlei.com
+127.0.0.1 thunderqtypv.union.xunlei.com
+127.0.0.1 tj.xunlei.com
+127.0.0.1 union.xunlei.com
+127.0.0.1 web.stat.xunlei.com
+127.0.0.1 websts.xunlei.com
+127.0.0.1 wy.xunlei.com
+127.0.0.1 xmlconf.client.xunlei.com
+
 ##谷歌相关
 66.249.89.91 mail.google.com
 74.125.79.109 pop.gmail.com
@@ -158,6 +215,19 @@
 72.14.203.93 encrypted-tbn1.google.com
 72.14.203.93 encrypted-tbn2.google.com
 72.14.203.93 encrypted-tbn3.google.com
+
+74.125.128.104 accounts.google.com
+74.125.128.104 google.com
+74.125.128.104 plus.google.com
+74.125.128.104 talkgadget.google.com 
+74.125.128.104 ssl.gstatic.com
+74.125.128.104 images-pos-opensocial.googleusercontent.com
+74.125.128.104 images1-focus-opensocial.googleusercontent.com
+74.125.128.104 images2-focus-opensocial.googleusercontent.com
+74.125.128.104 images3-focus-opensocial.googleusercontent.com
+74.125.128.104 images4-focus-opensocial.googleusercontent.com
+74.125.128.104 images5-focus-opensocial.googleusercontent.com
+74.125.128.104 images6-focus-opensocial.googleusercontent.com
 ##Chrome 网上应用店
 203.208.39.22 chrome.google.com
 203.208.39.22 clients0.google.com
@@ -167,6 +237,7 @@
 203.208.39.22 clients4.google.com
 203.208.39.22 clients1.googleusercontent.com
 203.208.39.22 clients2.googleusercontent.com
+
 ##网页快照
 203.208.46.132 webcache.googleusercontent.com
 203.208.46.146 http://www.google.com
