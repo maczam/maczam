@@ -17,6 +17,27 @@
 #       38.25.63.10     x.acme.com              # x client host
 
 127.0.0.1       localhost
+#百度：
+127.0.0.1 a.baidu.com
+127.0.0.1 baidutv.baidu.com
+127.0.0.1 bar.baidu.com
+127.0.0.1 c.baidu.com
+127.0.0.1 cjhq.baidu.com
+127.0.0.1 cpro.baidu.com
+127.0.0.1 drmcmm.baidu.com
+127.0.0.1 e.baidu.com
+127.0.0.1 eiv.baidu.com
+127.0.0.1 hc.baidu.com
+127.0.0.1 hm.baidu.com
+127.0.0.1 ma.baidu.com
+127.0.0.1 nsclick.baidu.com
+127.0.0.1 spcode.baidu.com
+127.0.0.1 tk.baidu.com
+127.0.0.1 union.baidu.com
+127.0.0.1 ucstat.baidu.com
+127.0.0.1 utility.baidu.com
+127.0.0.1 utk.baidu.com
+127.0.0.1 focusbaiduafp.allyes.com
 
 #迅雷看看播放器
 127.0.0.1 mcfg.sandai.net
